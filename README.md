@@ -34,7 +34,7 @@ cd aleph-node-runner
 docker logs --follow <NODEADIN>
 ```
 
-# Validator Olmak İçin Gerekli Bilgileri Alma
+# Validator Olmak İçin İstenilen Bilgileri Alma
 ```
 ./signer.sh
 ```
